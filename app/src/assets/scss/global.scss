@@ -1,0 +1,33 @@
+@import url("./__variables.scss");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: $theme-default-font;
+  font-size: $theme-default-font-size;
+  font-weight: 400;
+  color: $theme-default-color;
+  background-color: $theme-background-color;
+
+  h1 {
+    font-size: 2em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0 0 0.5em 0;
+  }
+  h2 {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0 0 0.5em 0;
+  }
+  h3 {
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0 0 0.5em 0;
+  }
+}
