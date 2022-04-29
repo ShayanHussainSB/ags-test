@@ -5,6 +5,7 @@ import thunk from "redux-thunk";
 
 // COMBINED REDUCERS
 import rootReducers from "./reducers/index";
+
 // FOR DEVELOPMENT
 import { composeWithDevTools } from "redux-devtools-extension";
 
