@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@project-serum/anchor": "^0.18.2",
+    "fs": "^0.0.1-security",
     "react-router-dom": "^6.3.0"
   },
   "devDependencies": {
